@@ -3,7 +3,7 @@ A dataset for prediction of amount of evapotranspiration.
 
 The paper on this data and on the task of prediction by Machine Learning is published at ACM Symposium of Applied Computing 2023, entitled:
 
-"Multivariate Time Series Evapotranspiration Forecasting using Machine Learning Techniques" by Chalachew Muluken Liyew, Rosa Meo, Elvira Di Nardo, Stefano Ferraris, University of Torino, and Politecnico di Torino, Italy
+"Multivariate Time Series Evapotranspiration Forecasting using Machine Learning Techniques" by Chalachew Muluken Liyew, Rosa Meo, Elvira Di Nardo, Stefano Ferraris, University of Torino, and Politecnico di Torino, Italy, DOI: 10.1145/3555776.3577838
 
 The short data-set contains the following features, selected from a larger set, (sampled every 30 minutes) from 2014 to 1st October 2017:
 
