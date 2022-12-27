@@ -6,18 +6,18 @@ The paper on this data and on the task of prediction by Machine Learning is publ
 "Multivariate Time Series Evapotranspiration Forecasting using Machine Learning Techniques" by Chalachew Muluken Liyew, Rosa Meo, Elvira Di Nardo, Stefano Ferraris, University of Torino, and Politecnico di Torino, Italy
 
 The short data-set contains the following features, selected from a larger set, (sampled every 30 minutes) from 2014 to 1st October 2017:
-Name;       Meaning;	                      Unit of measure;	Type; 	Min;	  Max
-AET;	      actual Evapotranspiration;	    mm/30min; 	      mean;	  0	      0.57
-HS;         Sensible Heat Flux;       	    W m^-2;   	      mean;	  -99.81	321.88
-co2_mean;	  Mean CO2 concentration;   	    mg m^-3;  	      mean;	  -46.69	47.63
-Ts_mean; 	  Mean air temperature;	          °C;       	      mean;   -0.96	  29.27
-AirPr_Avg;	Air Pressure Average;     	    hpa;            	mean;	  813.28	841.68
-wnd_spd; 	  Resultant wind speed;      	    m s^-1;         	mean; 	14	    3.78
-wnd_dir;	  Wind Direction;           	    degrees;        	mean; 	1	      359.99
-Tsoil_avg;	Soil Temperature Average;  	    °C;             	mean; 	6.19	  23.31
-NetRn;	    Net Radiation Measured Average;	W m^-2;         	mean; 	-154.84	1034.23
-RH;	        Relative Humidity;            	%;              	mean;	  0.22  	95.21
-VWC;	      Volumetric Water Content;      	m^3m^-3;        	mean; 	0.1	    0.23
+Name;       Meaning;	                      Unit of measure;	Type; 	Min;	  	Max
+AET;	      actual Evapotranspiration;	    mm/30min; 	      mean;	  0;	      0.57
+HS;         Sensible Heat Flux;       	    W m^-2;   	      mean;	  -99.81;		321.88
+co2_mean;	  Mean CO2 concentration;   	    mg m^-3;  	      mean;	  -46.69;		47.63
+Ts_mean; 	  Mean air temperature;	          °C;       	      mean;   -0.96;	  29.27
+AirPr_Avg;	Air Pressure Average;     	    hpa;            	mean;	  813.28;		841.68
+wnd_spd; 	  Resultant wind speed;      	    m s^-1;         	mean; 	14;	    	3.78
+wnd_dir;	  Wind Direction;           	    degrees;        	mean; 	1;	      359.99
+Tsoil_avg;	Soil Temperature Average;  	    °C;             	mean; 	6.19;	  	23.31
+NetRn;	    Net Radiation Measured Average;	W m^-2;         	mean; 	-154.84;	1034.23
+RH;	        Relative Humidity;            	%;              	mean;	  0.22;  		95.21
+VWC;	      Volumetric Water Content;      	m^3m^-3;        	mean; 	0.1;	    0.23
 
 
 The complete dataset contains the following features (sampled every 30 minutes) from 2014 to 1st October 2017:
