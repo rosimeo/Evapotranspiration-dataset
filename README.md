@@ -5,7 +5,7 @@ The paper on this data and on the task of prediction by Machine Learning is publ
 
 "Multivariate Time Series Evapotranspiration Forecasting using Machine Learning Techniques" by Chalachew Muluken Liyew, Rosa Meo, Elvira Di Nardo, Stefano Ferraris, University of Torino, and Politecnico di Torino, Italy
 
-The dataset contains the following features (sampled every 30 minutes) from 2014 to 1st October 2017:
+The complete dataset contains the following features (sampled every 30 minutes) from 2014 to 1st October 2017:
 
 date (in dd/mm/yyyy)
 
